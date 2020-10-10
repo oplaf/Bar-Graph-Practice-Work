@@ -1,0 +1,6 @@
+Brockton:10
+Cambridge:12
+Fall River:9
+NewBedford:10
+Taunton:6
+Wareham:2
